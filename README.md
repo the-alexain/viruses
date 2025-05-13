@@ -1,2 +1,2 @@
 # viruses
-game for college
+код игрульки
